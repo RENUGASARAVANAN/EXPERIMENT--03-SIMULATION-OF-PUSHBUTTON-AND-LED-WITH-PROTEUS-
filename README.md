@@ -1,3 +1,8 @@
+DEVELOPED BY:RENUGA S
+
+REGISTER NUMBER:212222230118
+
+
 # EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
 ## Aim: To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
@@ -71,10 +76,6 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-
-DEVELOPED BY:RENUGA S
-
-REGISTER NUMBER:212222230118
 
 
 #include "main.h"
